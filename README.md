@@ -6,4 +6,4 @@ For this task, I was provided with a working web page. My role was to go through
 The deployed web page can be found [here](https://arbdt.github.io/bcs-homework-1).
 
 ### Preview
-![image](./asssets/images/preview-refactor.png)
+![image](./assets/images/preview-refactor.png)
